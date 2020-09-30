@@ -1,7 +1,7 @@
 WebsiteBlocker
 ==============
 
-Block/unblock websites without installing any software
+Block/unblock websites without installing any type software.
 
 Features:
 ---
